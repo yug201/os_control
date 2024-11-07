@@ -70,6 +70,16 @@ The project workflow consists of several stages, involving three separate LLMs t
    - **LLM 3**: Analyzes the error, creates an adjusted strategy, and sends it to LLM 2 for new code generation.
 5. **Repeat**: Steps 3–4 until success.
 
+## Here  is  some  samples  
+![image alt](https://github.com/yug201/os_control/blob/0aa7d1fe4a49a9588a455f81b695ec76bb1ea174/24.png)
+
+
+![image alt](https://github.com/yug201/os_control/blob/0aa7d1fe4a49a9588a455f81b695ec76bb1ea174/22.png)
+
+
+
+![image alt](https://github.com/yug201/os_control/blob/0aa7d1fe4a49a9588a455f81b695ec76bb1ea174/21.png)
+
 ## Contributing
 
 We welcome contributions! Please follow these steps:
